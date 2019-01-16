@@ -9,7 +9,7 @@
 import m from 'mithril';
 
 /**
- * @author H.J.M van der Heijden
+ * @author Mourad Nasser
  */
 
 export interface IUser {
